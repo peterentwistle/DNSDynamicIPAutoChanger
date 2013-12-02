@@ -9,8 +9,8 @@ Requirements
 ==========
 Make sure you make an account on [dnsdynamic.org](https://www.dnsdynamic.org/signup.php) first.
 * Python 2.7
-* Beautiful Soup 4
-* Requests
+* [Requests](http://www.python-requests.org)
+* [Beautiful Soup 4](http://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 * Crontab
 
 Installation

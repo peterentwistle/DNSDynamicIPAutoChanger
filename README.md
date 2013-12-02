@@ -39,3 +39,7 @@ hostname = 'yourDnsDynamicSubDomain'
     Feel free to change how often the script is ran.
 
 That's all you need to do, but to confirm that everything is running correctly go into the dns directory and see if an `ip` file has been created after 5 minutes. If you open the `ip` file with a text editor you should see an ip address like: `127.0.0.1` (but with your external IP instead) this means that the script is running correctly.
+
+License
+==========
+See [LICENSE](https://github.com/peterentwistle/DNSDynamicIPAutoChanger/blob/master/LICENSE)
